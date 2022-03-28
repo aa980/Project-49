@@ -1,0 +1,23 @@
+body {
+    background-color: background: rgb(35, 122, 11);
+    background: linear-gradient(90deg, rgba(35, 122, 11, 1) 0%, rgba(10, 182, 60, 1) 35%, rgba(0, 255, 173, 1) 100%);
+}
+
+
+#heading1 {
+
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+#image1 {
+    height: 500px;
+    width: 800px;
+
+}
+
+#para1{
+    font-family:'Secular One', sans-serif;
+    font-size: 20px;
+    color: white;
+}
